@@ -1,8 +1,7 @@
 # AtMoDat_CVs
 
-This repository contains lists of mandatory/required, recommended and optional global attributes and CVs for some of them. They are stored in JSON files. The structure is the same as of the [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs/).
+This repository contains lists of mandatory/required, recommended and optional global attributes. Controlled vocabularies (CVs) for possible values of these attributes will follow later on.
 
-# Open Questions:
+The lists/CVs are stored in JSON files. The structure is the same as of the [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs/).
 
-* `frequency`: also include `frequency_units` or assume same unit as `time` variable?
-* `geospatial_*_resolution`: currently, `*` can be `lon` or `lat`; however, `x` and `y` might also be reasonable alternatives; in the later case, we needed units;
+Work in progress
