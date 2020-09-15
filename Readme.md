@@ -6,6 +6,10 @@ The lists/CVs are stored in two formats:
 * [JSON files](AtMoDat_CV_json). The structure is the same as of the [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs/).
 * [pyessv archive](pyessv-archive/atmodat)
 
+## Disclaimer
+
+The script to create the pyessv archive is based on this script https://github.com/ES-DOC/pyessv/blob/master/sh/writers/wcrp/cmip6/write.py (commit 1e2afa2) in the pyessv repository.
+
 ## Create pyessv archive
 
 1. Clone this repository:
