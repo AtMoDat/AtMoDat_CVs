@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "subhrpt", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "subhrPt", 
+    "namespace": "atmodat:atmodat:frequency:subhrpt", 
+    "raw_name": "subhrPt", 
+    "status": "pending"
+}

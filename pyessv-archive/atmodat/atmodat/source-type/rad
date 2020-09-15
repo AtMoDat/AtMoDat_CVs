@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "rad", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "RAD", 
+    "namespace": "atmodat:atmodat:source-type:rad", 
+    "raw_name": "RAD", 
+    "status": "pending"
+}

@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "monc", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "monC", 
+    "namespace": "atmodat:atmodat:frequency:monc", 
+    "raw_name": "monC", 
+    "status": "pending"
+}

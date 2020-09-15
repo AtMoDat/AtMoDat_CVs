@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "aogcm", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "AOGCM", 
+    "namespace": "atmodat:atmodat:source-type:aogcm", 
+    "raw_name": "AOGCM", 
+    "status": "pending"
+}

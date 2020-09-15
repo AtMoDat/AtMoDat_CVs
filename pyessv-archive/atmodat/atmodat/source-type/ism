@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "ISM", 
+    "namespace": "atmodat:atmodat:source-type:ism", 
+    "raw_name": "ISM", 
+    "status": "pending"
+}

@@ -1,0 +1,173 @@
+{
+    "_type": "authority", 
+    "canonical_name": "atmodat", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "description": "AtMoDat", 
+    "label": "AtMoDat", 
+    "namespace": "atmodat", 
+    "raw_name": "AtMoDat", 
+    "scopes": [
+        {
+            "_type": "scope", 
+            "canonical_name": "atmodat", 
+            "collections": [
+                {
+                    "_type": "collection", 
+                    "canonical_name": "featuretype", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Featuretype", 
+                    "namespace": "atmodat:atmodat:featuretype", 
+                    "raw_name": "featureType", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "point:point", 
+                        "profile:profile", 
+                        "timeseries:timeSeries", 
+                        "timeseriesprofile:timeSeriesProfile", 
+                        "trajectory:trajectory", 
+                        "trajectoryprofile:trajectoryProfile"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "frequency", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Frequency", 
+                    "namespace": "atmodat:atmodat:frequency", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "1hr:1hr", 
+                        "1hrcm:1hrCM", 
+                        "1hrpt:1hrPt", 
+                        "3hr:3hr", 
+                        "3hrpt:3hrPt", 
+                        "6hr:6hr", 
+                        "6hrpt:6hrPt", 
+                        "day:day", 
+                        "dec:dec", 
+                        "fx:fx", 
+                        "mon:mon", 
+                        "monc:monC", 
+                        "monpt:monPt", 
+                        "subhrpt:subhrPt", 
+                        "yr:yr", 
+                        "yrpt:yrPt"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "nominal-resolution", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Nominal Resolution", 
+                    "namespace": "atmodat:atmodat:nominal-resolution", 
+                    "raw_name": "nominal_resolution", 
+                    "term_regex": "^[a-z0-9\\-\\.]*$", 
+                    "terms": [
+                        "0.5-km:0.5 km", 
+                        "1-km:1 km", 
+                        "10-km:10 km", 
+                        "100-km:100 km", 
+                        "1000-km:1000 km", 
+                        "10000-km:10000 km", 
+                        "1x1-degree:1x1 degree", 
+                        "2.5-km:2.5 km", 
+                        "25-km:25 km", 
+                        "250-km:250 km", 
+                        "2500-km:2500 km", 
+                        "5-km:5 km", 
+                        "50-km:50 km", 
+                        "500-km:500 km", 
+                        "5000-km:5000 km"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "realm", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Realm", 
+                    "namespace": "atmodat:atmodat:realm", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "aerosol:aerosol", 
+                        "atmos:atmos", 
+                        "atmoschem:atmosChem", 
+                        "land:land", 
+                        "landice:landIce", 
+                        "ocean:ocean", 
+                        "ocnbgchem:ocnBgchem", 
+                        "seaice:seaIce"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "required-global-attributes", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Required Global Attributes", 
+                    "namespace": "atmodat:atmodat:required-global-attributes", 
+                    "raw_name": "required_global_attributes", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "conventions:Conventions", 
+                        "institution:institution", 
+                        "source:source"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "source-type", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Source Type", 
+                    "namespace": "atmodat:atmodat:source-type", 
+                    "raw_name": "source_type", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "aer:AER", 
+                        "agcm:AGCM", 
+                        "aogcm:AOGCM", 
+                        "bgc:BGC", 
+                        "chem:CHEM", 
+                        "ism:ISM", 
+                        "land:LAND", 
+                        "ogcm:OGCM", 
+                        "rad:RAD", 
+                        "slab:SLAB"
+                    ]
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "variable-id", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Variable ID", 
+                    "namespace": "atmodat:atmodat:variable-id", 
+                    "raw_name": "variable_id", 
+                    "term_regex": "^[A-Za-z0-9]*$", 
+                    "terms": []
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "version", 
+                    "create_date": "2020-09-15 11:55:38+00:00", 
+                    "description": "AtMoDatll CV collection:", 
+                    "label": "Version", 
+                    "namespace": "atmodat:atmodat:version", 
+                    "term_regex": "^[0-9]{8}$", 
+                    "terms": []
+                }
+            ], 
+            "create_date": "2020-09-15 11:55:38+00:00", 
+            "description": "Controlled Vocabularies (CVs) for use with AtMoDat", 
+            "label": "AtMoDat", 
+            "namespace": "atmodat:atmodat", 
+            "raw_name": "AtMoDat", 
+            "url": "https://github.com/AtMoDat/AtMoDat_CVs"
+        }
+    ], 
+    "url": "https://www.atmodat.de/"
+}
