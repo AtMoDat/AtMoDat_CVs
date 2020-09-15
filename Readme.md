@@ -4,7 +4,7 @@ This repository contains lists of mandatory/required, recommended and optional g
 
 The lists/CVs are stored in two formats:
 * [JSON files](AtMoDat_CV_json). The structure is the same as of the [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs/).
-* [pyessv archive](pyessv_archive/atmodat)
+* [pyessv archive](pyessv-archive/atmodat)
 
 ## Create pyessv archive
 
@@ -46,13 +46,14 @@ python create_atmodat_pyessv_archive.py --source AtMoDat_CV_json
 
 In alphabetic order:
 
-* Amandine Kaiser, ORCID: 0000-0002-2756-9964
-* Anette Ganske, ORCID: 0000-0003-1043-4964
-* Angelina Kraft, ORCID: 0000-0002-6454-335X
-* Daniel Heydebreck, ORCID: 0000-0001-8574-9093
-* Hannes Thiemann, ORCID: 0000-0002-2329-8511
-* Heinke Hoeck, ORCID: 0000-0002-0131-1404
-* Jan Kretzschmar, ORCID: 0000-0002-8013-5831
+* [Amandine Kaiser](https://github.com/am-kaiser), [ORCID: 0000-0002-2756-9964](https://orcid.org/0000-0002-2756-9964)
+* [Anette Ganske](https://github.com/anganske), [ORCID: 0000-0003-1043-4964 
+](https://orcid.org/0000-0003-1043-4964)
+* Angelina Kraft, [ORCID: 0000-0002-6454-335X](https://orcid.org/0000-0002-6454-335X)
+* [Daniel Heydebreck](https://github.com/neumannd), [ORCID: 0000-0001-8574-9093](https://orcid.org/0000-0001-8574-9093)
+* Hannes Thiemann, [ORCID: 0000-0002-2329-8511](https://orcid.org/0000-0002-2329-8511)
+* Heinke Hoeck, [ORCID: 0000-0002-0131-1404](https://orcid.org/0000-0002-0131-1404)
+* Jan Kretzschmar, [ORCID: 0000-0002-8013-5831](http://orcid.org/0000-0002-8013-5831)
 
 ## Acknowledgements:
 
