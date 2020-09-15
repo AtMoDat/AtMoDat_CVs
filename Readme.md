@@ -4,7 +4,7 @@ This repository contains lists of mandatory/required, recommended and optional g
 
 The lists/CVs are stored in two formats:
 * [JSON files](AtMoDat_CV_json). The structure is the same as of the [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs/).
-* [pyessv archive](pyessv_archive)
+* [pyessv archive](pyessv_archive/atmodat)
 
 ## Create pyessv archive
 
