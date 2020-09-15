@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "slab", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "SLAB", 
+    "namespace": "atmodat:atmodat:source-type:slab", 
+    "raw_name": "SLAB", 
+    "status": "pending"
+}

@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "chem", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "CHEM", 
+    "namespace": "atmodat:atmodat:source-type:chem", 
+    "raw_name": "CHEM", 
+    "status": "pending"
+}

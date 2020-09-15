@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-km", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "1 km", 
+    "namespace": "atmodat:atmodat:nominal-resolution:1-km", 
+    "raw_name": "1 km", 
+    "status": "pending"
+}

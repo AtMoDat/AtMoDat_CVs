@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hrpt", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "3hrPt", 
+    "namespace": "atmodat:atmodat:frequency:3hrpt", 
+    "raw_name": "3hrPt", 
+    "status": "pending"
+}

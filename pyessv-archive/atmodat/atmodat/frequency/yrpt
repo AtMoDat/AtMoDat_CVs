@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "yrpt", 
+    "create_date": "2020-09-15 11:55:38+00:00", 
+    "label": "yrPt", 
+    "namespace": "atmodat:atmodat:frequency:yrpt", 
+    "raw_name": "yrPt", 
+    "status": "pending"
+}
