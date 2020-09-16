@@ -1,5 +1,5 @@
 {
-    "required_global_attributes":[
+    "mandatory_global_attributes":[
         "Conventions",
         "institution",
         "source"
