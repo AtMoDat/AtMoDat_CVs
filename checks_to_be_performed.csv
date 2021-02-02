@@ -1,0 +1,84 @@
+checker,property,status,value type,value,CV,CV_version,last_modified,note,editor
+data_file,comment,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,contact,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,Conventions,M,string,NA,NA,NA,2/2/2021,space separated list (CF-Ver (M) ATMODAT-Ver (R )),Amandine Kaiser
+data_file,creation_date,R,string,ISO 8601 time stamp,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,creator,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,crs,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,featureType,R,string,CV,"""featureType"":[""point"", ""timeSeries"", ""trajectory"", ""profile"", ""timeSeriesProfile"",""trajectoryProfile""]",NA,2/2/2021,NA,Amandine Kaiser
+data_file,frequency,R,string,CV,"""frequency"":{""1hr"":""sampled hourly"", ""1hrCM"":""monthly-mean diurnal cycle resolving each day into 1-hour means"", ""1hrPt"":""sampled hourly, at specified time point within an hour"", ""3hr"":""sampled every 3 hours"", ""3hrPt"":""sampled 3 hourly, at specified time point within the time period"", ""6hr"":""sampled every 6 hours"", ""6hrPt"":""sampled 6 hourly, at specified time point within the time period"", ""day"":""daily mean samples"", ""dec"":""decadal mean samples"", ""fx"":""fixed (time invariant) field"", ""mon"":""monthly mean samples"", ""monC"":""monthly climatology computed from monthly mean samples"", ""monPt"":""sampled monthly, at specified time point within the time period"", ""subhrPt"":""sampled sub-hourly, at specified time point within an hour"", ""yr"":""annual mean samples"", ""yrPt"":""sampled yearly, at specified time point within the time period""}",NA,2/2/2021,NA,Amandine Kaiser
+data_file,further_info_url,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,geospatial_lat_resolution,R,string,number + unit,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,geospatial_lon_resolution,R,string,number + unit,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,geospatial_vertical_resolution,R,string,number + unit,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,history,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,institution,M,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,institution_id,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,keywords,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,keywords_vocabulary,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,license,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,metadata_link,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,nominal_resolution,R,string,CV,"""nominal_resolution"":[""0.5 km"", ""1 km"", ""10 km"", ""100 km"", ""1000 km"", ""10000 km"", ""1x1 degree"", ""2.5 km"", ""25 km"", ""250 km"", ""2500 km"", ""5 km"", ""50 km"", ""500 km"", ""5000 km""]",NA,2/2/2021,NA,Amandine Kaiser
+data_file,processing_level,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,product_version,R,any,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,program,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,project,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,realm,R,string,CV,"""realm"":{""aerosol"":""Aerosol"", ""atmos"":""Atmosphere"", ""atmosChem"":""Atmospheric Chemistry"", ""land"":""Land Surface"", ""landIce"":""Land Ice"", ""ocean"":""Ocean"", ""ocnBgchem"":""Ocean Biogeochemistry"", ""seaIce"":""Sea Ice""}",NA,2/2/2021,NA,Amandine Kaiser
+data_file,references,O,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,source,M,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,source_type,R,string,CV,"""source_type"":{""AER"":""aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)"", ""AGCM"":""atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface"", ""AOGCM"":""coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice"", ""BGC"":""biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean"", ""CHEM"":""chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them"", ""ISM"":""ice-sheet model that includes ice-flow"", ""LAND"":""land model run uncoupled from the atmosphere"", ""OGCM"":""ocean general circulation model run uncoupled from an AGCM but, usually including a sea-ice model"", ""RAD"":""radiation component of an atmospheric model run 'offline'"", ""SLAB"":""slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system""}",NA,2/2/2021,NA,Amandine Kaiser
+data_file,standard_name_vocabulary,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,summary,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+data_file,title,R,string,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,AlternateIdentifier ,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,alternateIdentifierType ,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,awardNumber,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,awardTitle,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,awardURI,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.affiliation,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.affiliationIdentifier,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.affiliationIdentifierScheme,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.familyName,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.givenName,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.nameIdentifier,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.nameIdentifierScheme,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Contributor.schemeURI,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.affiliation,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.affiliationIdentifier,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.affiliationIdentifierScheme,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.familyName,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.givenName,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.nameIdentifier,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Creator.nameIdentifierScheme,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Date,M,"ISO 8601, ISO 1910",NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,dateType,M,CV,NA,"""dateType"":{""created"", ""updated""}",1.0,2/2/2021,NA,Amandine Kaiser
+datacite,Description,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Format,M,NA,netCDF,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,funderIdentifier,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,funderName,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,FundingReference,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,GeoLocation ,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,geoLocationBox,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,geoLocationPoint,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,geoLocationPolygon,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Identifier,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,identifierType,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Language,M,ISO 639,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,PublicationYear,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Publisher,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,RelatedIdentifier ,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,relatedIdentifierType ,R,CV,NA,"""relatedIdentifierType"":{""ARK"", ""arXiv"", ""bibcode"", ""DOI"", ""EAN13"", ""EISSN"", ""Handle"", ""IGSN"", ""ISBN"", ""ISSN"", ""ISTC"", ""LISSN"", ""LSID"", ""PMID"", ""PURL"", ""UPC"", ""URL"", ""URN""}",1.0,2/2/2021,NA,Amandine Kaiser
+datacite,relationType ,R,CV,NA,NA,1.0,2/2/2021,NA,Amandine Kaiser
+datacite,ResourceType,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,resourceTypeGeneral,M,CV,NA,"""resourceTypeGeneral"":{""Audiovisual"", ""Collection"", ""Data"", ""Paper"", ""Dataset"", ""Event"", ""Image"", ""Interactive"", ""Resource"", ""Model"", ""Physical"", ""Object"", ""Service"", ""Software"", ""Sound"", ""Text"", ""Workflow"", ""Other""}",1.0,2/2/2021,NA,Amandine Kaiser
+datacite,Rights,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Size,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Size,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Subject,M,CV,"EASYDAB, AtMoDat","""realm"":{ ""aerosol"":""Aerosol"", ""atmos"":""Atmosphere"", ""atmosChem"":""Atmospheric Chemistry"", ""land"":""Land Surface"", ""landIce"":""Land Ice"", ""ocean"":""Ocean"", ""ocnBgchem"":""Ocean Biogeochemistry"", ""seaIce"":""Sea Ice""}, ""fieldOfScience"":{}",1.0,2/2/2021,NA,Amandine Kaiser
+datacite,Subject.valueURI,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,subjectScheme,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Title,M,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,titleType,O,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
+datacite,Version,R,NA,NA,NA,NA,2/2/2021,NA,Amandine Kaiser
