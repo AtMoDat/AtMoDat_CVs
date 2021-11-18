@@ -1,4 +1,4 @@
-# AtMoDat_CVs
+# AtMoDat CVs
 
 This repository contains lists of mandatory/required, recommended and optional global attributes and controlled vocabularies (CVs) for values of these attributes for the ATMODAT Standard. 
 
