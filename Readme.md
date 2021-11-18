@@ -57,7 +57,7 @@ In alphabetic order:
 * [Daniel Heydebreck](https://github.com/neumannd), [ORCID: 0000-0001-8574-9093](https://orcid.org/0000-0001-8574-9093)
 * Hannes Thiemann, [ORCID: 0000-0002-2329-8511](https://orcid.org/0000-0002-2329-8511)
 * Heinke Hoeck, [ORCID: 0000-0002-0131-1404](https://orcid.org/0000-0002-0131-1404)
-* Jan Kretzschmar, [ORCID: 0000-0002-8013-5831](http://orcid.org/0000-0002-8013-5831)
+* [Jan Kretzschmar](https://github.com/jkretz), [ORCID: 0000-0002-8013-5831](http://orcid.org/0000-0002-8013-5831)
 
 ## Acknowledgements:
 
