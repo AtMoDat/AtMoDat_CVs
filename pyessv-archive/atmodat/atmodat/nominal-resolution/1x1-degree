@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "1x1-degree", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "1x1 degree", 
-    "namespace": "atmodat:atmodat:nominal-resolution:1x1-degree", 
-    "raw_name": "1x1 degree", 
+    "_type": "term",
+    "canonical_name": "1x1-degree",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "label": "1x1 degree",
+    "namespace": "atmodat:atmodat:nominal-resolution:1x1-degree",
+    "raw_name": "1x1 degree",
     "status": "pending"
 }

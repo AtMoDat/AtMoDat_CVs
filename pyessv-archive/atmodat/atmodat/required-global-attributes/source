@@ -1,7 +1,0 @@
-{
-    "_type": "term", 
-    "canonical_name": "source", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "namespace": "atmodat:atmodat:required-global-attributes:source", 
-    "status": "pending"
-}

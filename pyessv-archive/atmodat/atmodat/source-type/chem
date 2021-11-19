@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "chem", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "CHEM", 
-    "namespace": "atmodat:atmodat:source-type:chem", 
-    "raw_name": "CHEM", 
+    "_type": "term",
+    "canonical_name": "chem",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
+    "label": "CHEM",
+    "namespace": "atmodat:atmodat:source-type:chem",
+    "raw_name": "CHEM",
     "status": "pending"
 }

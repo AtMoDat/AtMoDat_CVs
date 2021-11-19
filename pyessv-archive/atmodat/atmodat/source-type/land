@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "land", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "LAND", 
-    "namespace": "atmodat:atmodat:source-type:land", 
-    "raw_name": "LAND", 
+    "_type": "term",
+    "canonical_name": "land",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "land model run uncoupled from the atmosphere",
+    "label": "LAND",
+    "namespace": "atmodat:atmodat:source-type:land",
+    "raw_name": "LAND",
     "status": "pending"
 }

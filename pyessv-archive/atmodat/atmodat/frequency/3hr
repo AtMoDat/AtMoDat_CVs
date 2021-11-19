@@ -1,7 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "3hr", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "namespace": "atmodat:atmodat:frequency:3hr", 
+    "_type": "term",
+    "canonical_name": "3hr",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "sampled every 3 hours",
+    "namespace": "atmodat:atmodat:frequency:3hr",
     "status": "pending"
 }

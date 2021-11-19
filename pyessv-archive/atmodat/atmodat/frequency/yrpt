@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "yrpt", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "yrPt", 
-    "namespace": "atmodat:atmodat:frequency:yrpt", 
-    "raw_name": "yrPt", 
+    "_type": "term",
+    "canonical_name": "yrpt",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "sampled yearly, at specified time point within the time period",
+    "label": "yrPt",
+    "namespace": "atmodat:atmodat:frequency:yrpt",
+    "raw_name": "yrPt",
     "status": "pending"
 }

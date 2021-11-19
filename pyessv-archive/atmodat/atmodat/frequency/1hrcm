@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1hrcm", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "1hrCM", 
-    "namespace": "atmodat:atmodat:frequency:1hrcm", 
-    "raw_name": "1hrCM", 
+    "_type": "term",
+    "canonical_name": "1hrcm",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "monthly-mean diurnal cycle resolving each day into 1-hour means",
+    "label": "1hrCM",
+    "namespace": "atmodat:atmodat:frequency:1hrcm",
+    "raw_name": "1hrCM",
     "status": "pending"
 }

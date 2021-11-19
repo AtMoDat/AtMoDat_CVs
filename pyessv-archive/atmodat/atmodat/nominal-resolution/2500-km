@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "2500-km", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "2500 km", 
-    "namespace": "atmodat:atmodat:nominal-resolution:2500-km", 
-    "raw_name": "2500 km", 
+    "_type": "term",
+    "canonical_name": "2500-km",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "label": "2500 km",
+    "namespace": "atmodat:atmodat:nominal-resolution:2500-km",
+    "raw_name": "2500 km",
     "status": "pending"
 }

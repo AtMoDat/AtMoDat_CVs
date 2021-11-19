@@ -59,7 +59,7 @@ _SCOPE_COLLECTIONS = {
         'frequency': {
             'cim_document_type': None,
             'cim_document_type_alternative_name': None,
-            'data_factory': None,
+            'data_factory': lambda obj, name: {'description': obj[name]},
             'is_virtual': False,
             'label': None,
             'ommitted': [],
@@ -83,41 +83,14 @@ _SCOPE_COLLECTIONS = {
             'ommitted': [],
             'term_regex': r'^[a-z0-9\-\.]*$'
         },
-        'required_global_attributes': {
-            'cim_document_type': None,
-            'cim_document_type_alternative_name': None,
-            'data_factory': None,
-            'is_virtual': False,
-            'label': None,
-            'ommitted': [],
-            'term_regex': None
-        },
         'source_type': {
             'cim_document_type': None,
             'cim_document_type_alternative_name': None,
-            'data_factory': None,
+            'data_factory': lambda obj, name: {'description': obj[name]},
             'is_virtual': False,
             'label': None,
             'ommitted': [],
             'term_regex': None
-        },
-        'variable_id': {
-            'cim_document_type': None,
-            'cim_document_type_alternative_name': None,
-            'data_factory': None,
-            'is_virtual': True,
-            'label': None,
-            'ommitted': [],
-            'term_regex': r'^[A-Za-z0-9]*$',
-        },
-        'version': {
-            'cim_document_type': None,
-            'cim_document_type_alternative_name': None,
-            'data_factory': None,
-            'is_virtual': True,
-            'label': None,
-            'ommitted': [],
-            'term_regex': r'^[0-9]{8}$',
         }
     },
 }
@@ -159,7 +132,7 @@ def _create_collection(source, scope, collection_id, cfg):
         collection = pyessv.create_collection(
             scope,
             collection_id,
-            "AtMoDatll"
+            "AtMoDat"
             " CV collection: ".format(collection_id),
             label=cfg['label'] or collection_id.title().replace('_Id', '_ID').replace('_', ' '),
             create_date=_CREATE_DATE,

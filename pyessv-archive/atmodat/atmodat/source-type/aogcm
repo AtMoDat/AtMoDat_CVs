@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "aogcm", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "AOGCM", 
-    "namespace": "atmodat:atmodat:source-type:aogcm", 
-    "raw_name": "AOGCM", 
+    "_type": "term",
+    "canonical_name": "aogcm",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
+    "label": "AOGCM",
+    "namespace": "atmodat:atmodat:source-type:aogcm",
+    "raw_name": "AOGCM",
     "status": "pending"
 }

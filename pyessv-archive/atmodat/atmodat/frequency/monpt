@@ -1,9 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "monpt", 
-    "create_date": "2020-09-15 11:55:38+00:00", 
-    "label": "monPt", 
-    "namespace": "atmodat:atmodat:frequency:monpt", 
-    "raw_name": "monPt", 
+    "_type": "term",
+    "canonical_name": "monpt",
+    "create_date": "2021-11-19 12:43:40+00:00",
+    "description": "sampled monthly, at specified time point within the time period",
+    "label": "monPt",
+    "namespace": "atmodat:atmodat:frequency:monpt",
+    "raw_name": "monPt",
     "status": "pending"
 }
