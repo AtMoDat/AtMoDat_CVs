@@ -24,13 +24,20 @@ checks:
                  "status": "mandatory"}
     check_name: "atmodat_checklib.register.ConventionsVersionCheck"
 
+
+  ####################################### Recommended checks #######################################
+
   # Check if AtMoDat version matches the version against which checks should be performed
   - check_id: "atmodat_conventions_version_check"
     parameters: {"attribute": "Conventions", "convention_type": "ATMODAT", "min_version": 3.0, "max_version": 3.0,
-                 "status": "mandatory"}
+                 "status": "recommended"}
     check_name: "atmodat_checklib.register.ConventionsVersionCheck"
 
-  ####################################### Recommended checks #######################################
+  # Check and output license string
+  - check_id: "license_attribute_check"
+    parameters: {"attribute": "license", "type": "str", "status": "recommended"}
+    check_name: "atmodat_checklib.register.LicenseAttrCheck"
+
   # Check global attributes
 
   - check_id: "contact_attribute_type_check"
@@ -60,10 +67,6 @@ checks:
 
   - check_id: "keywords_attribute_type_check"
     parameters: {"attribute": "keywords", "type": "str", "status": "recommended"}
-    check_name: "atmodat_checklib.register.GlobalAttrTypeCheck"
-
-  - check_id: "license_attribute_type_check"
-    parameters: {"attribute": "license", "type": "str", "status": "recommended"}
     check_name: "atmodat_checklib.register.GlobalAttrTypeCheck"
 
   - check_id: "standard_name_vocabulary_attribute_type_check"
